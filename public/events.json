@@ -1,0 +1,87 @@
+{
+  "Market": [
+    {
+      "name": "Creative Village",
+      "link": "https://example.com/creative-village",
+      "informations": "Explorez les innovations locales dans ce lieu interactif."
+    }
+  ],
+  "Soirees": [
+    {
+      "name": "La Nef",
+      "link": "https://example.com/la-nef",
+      "informations": "Ici vous pouvez voir une expo sur l'art contemporain."
+    }
+  ],
+  "Exhibitions": [
+    {
+      "name": "CAVEMA - Grand Manège",
+      "link": "https://example.com/cavema-grand-manege",
+      "informations": "Ici vous pouvez voir une expo sur l'art contemporain."
+    },
+    {
+      "name": "Institut Saint-Louis",
+      "link": "https://example.com/institut-saint-louis",
+      "informations": "Découvrez l'histoire de ce lieu exceptionnel."
+    },
+    {
+      "name": "Le Pavillon",
+      "link": "https://example.com/le-pavillon",
+      "informations": "Explorez les innovations locales dans ce lieu interactif."
+    },
+    {
+      "name": "Co-working Namur",
+      "link": "https://example.com/co-working-namur",
+      "informations": "Profitez d'un espace créatif unique."
+    },
+    {
+      "name": "Le Delta",
+      "link": "https://example.com/le-delta",
+      "informations": "Un endroit idéal pour les amateurs d'art et de culture."
+    },
+    {
+      "name": "Galerie du Beffroi",
+      "link": "https://example.com/galerie-du-beffroi",
+      "informations": "Explorez les innovations locales dans ce lieu interactif."
+    },
+    {
+      "name": "Ancien hospice d'Harscamp",
+      "link": "https://example.com/ancien-hospice-d-harscamp",
+      "informations": "Un endroit idéal pour les amateurs d'art et de culture."
+    }
+  ],
+  "Talks": [
+    {
+      "name": "Théâtre de Namur",
+      "link": "https://example.com/theatre-de-namur",
+      "informations": "Ici vous pouvez voir une expo sur l'art contemporain."
+    },
+    {
+      "name": "Le Delta",
+      "link": "https://example.com/le-delta",
+      "informations": "Explorez les innovations locales dans ce lieu interactif."
+    },
+    {
+      "name": "La Bourse",
+      "link": "https://example.com/la-bourse",
+      "informations": "Un endroit idéal pour les amateurs d'art et de culture."
+    }
+  ],
+  "Autre": [
+    {
+      "name": "TRAKK hub créatif namurois",
+      "link": "https://example.com/trakk-hub-creatif-namurois",
+      "informations": "Un espace dédié aux créateurs locaux."
+    },
+    {
+      "name": "Maison du Conte",
+      "link": "https://example.com/maison-du-conte",
+      "informations": "Découvrez l'histoire et la culture locale."
+    },
+    {
+      "name": "Halle Al'Chair - Office du Tourisme",
+      "link": "https://example.com/halle-al-chair-office-du-tourisme",
+      "informations": "Profitez d'une visite guidée de ce lieu historique."
+    }
+  ]
+}
