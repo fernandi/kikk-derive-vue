@@ -6,7 +6,7 @@
       "informations": "Explorez les innovations locales dans ce lieu interactif."
     }
   ],
-  "Soirees": [
+  "Party": [
     {
       "name": "La Nef",
       "link": "https://example.com/la-nef",
@@ -67,7 +67,7 @@
       "informations": "Un endroit idéal pour les amateurs d'art et de culture."
     }
   ],
-  "Autre": [
+  "Others": [
     {
       "name": "TRAKK hub créatif namurois",
       "link": "https://example.com/trakk-hub-creatif-namurois",
@@ -79,7 +79,7 @@
       "informations": "Découvrez l'histoire et la culture locale."
     },
     {
-      "name": "Halle Al'Chair - Office du Tourisme",
+      "name": "Halle Al'Chair",
       "link": "https://example.com/halle-al-chair-office-du-tourisme",
       "informations": "Profitez d'une visite guidée de ce lieu historique."
     }
