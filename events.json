@@ -1,18 +1,4 @@
 {
-  "Temporary test": [
-    {
-      "name": "Chez F",
-      "link": "https://app.derive.today/?code=W62PDK&pcode=59&backLink=https%3A%2F%2Ffernandi.github.io%2Fkikk-derive-vue%2F"
-    },    
-    {
-      "name": "Chez C",
-      "link": "https://app.derive.today/?code=TSDUO6&pcode=59"
-        },    
-    {
-      "name": "Chez H",
-      "link": "https://app.derive.today/?code=YR5387&backLink=https%3A%2F%2Ffernandi.github.io%2Fkikk-derive-vue%2F"
-    }
-  ],
   "Market": [
     {
       "name": "Creative Village",
